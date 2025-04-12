@@ -17,14 +17,6 @@ This is a sleek and responsive digital clock built using **HTML**, **CSS**, and 
 - CSS
 - JavaScript
 
-## Features
-
-- Real-time digital clock displaying hours, minutes, and seconds.
-- Clean and modern user interface with a gradient background.
-- Responsive design that works across different screen sizes.
-- Backdrop blur effect for an enhanced visual experience.
-- Branding by CodeFusion_Solutions.
-
 ---
 
 **Made by Aditya Zingade – AZ_TECH_WIZARDRY ❤**
