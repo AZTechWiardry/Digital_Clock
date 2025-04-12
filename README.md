@@ -1,6 +1,21 @@
-# Digital Clock by CodeFusion_Solutions
+# 🕒 Digital Clock
 
-A simple yet elegant digital clock web application made with HTML, CSS, and JavaScript. This project demonstrates a visually appealing interface and updates the time dynamically every second.
+This is a sleek and responsive digital clock built using **HTML**, **CSS**, and **JavaScript**. It displays the current time in a stylish format and updates every second.
+
+🔗 **Live Demo:** [Click here to view](https://aztechwiardry.github.io/Digital_Clock/)
+
+## 🚀 Features
+
+- Real-time digital clock
+- Simple and clean UI
+- Responsive design for all screen sizes
+- Built purely with web technologies (no libraries)
+
+## 📁 Technologies Used
+
+- HTML
+- CSS
+- JavaScript
 
 ## Features
 
@@ -10,8 +25,6 @@ A simple yet elegant digital clock web application made with HTML, CSS, and Java
 - Backdrop blur effect for an enhanced visual experience.
 - Branding by CodeFusion_Solutions.
 
-## Getting Started
+---
 
-### Prerequisites
-
-To run this project, you only need a modern web browser.
+**Made by Aditya Zingade – AZ_TECH_WIZARDRY ❤**
